@@ -13,5 +13,5 @@ identify dominant vibration frequencies.
 Arduino · Python · Thonny · FFT · I2C
 
 ## Photos
-![Real setup](images/real setup.jpg)
-![Wiring diagram](images/wiring diagram.png)
+![Real setup](images/real_setup.jpg)
+![Wiring diagram](images/wiring_diagram.png)
