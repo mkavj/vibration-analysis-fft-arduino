@@ -12,10 +12,9 @@ identify dominant vibration frequencies.
 ## Tools & Stack
 Arduino · FFT · I2C
 
+### Video Demonstration
+[![Live Test Setup](https://img.youtube.com/vi/6PENfoOr2IQ/0.jpg)](https://www.youtube.com/shorts/6PENfoOr2IQ)
+
 ## Photos
 ![Real setup](images/real_setup.jpg)
 ![Wiring diagram](images/wiring_diagram.png)
-
-### Video Demonstration
-
-[![Live Test Setup](https://img.youtube.com/vi/so3n2aMOJgr-p9Gb/0.jpg)](https://www.youtube.com/watch?v=so3n2aMOJgr-p9Gb)
