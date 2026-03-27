@@ -1,8 +1,8 @@
-# Vibration Analysis – Arduino & Python
+# Vibration Analysis
 
 I measured vibrations on a running electric toothbrush using 
-an MPU-6050 accelerometer connected to Arduino Uno. The raw 
-data was sent to a PC and analyzed in Python using FFT to 
+MPU-6050 accelerometer connected to Arduino Uno. The raw 
+data was sent to a PC and analyzed using FFT to 
 identify dominant vibration frequencies.
 
 ## Hardware
@@ -10,7 +10,7 @@ identify dominant vibration frequencies.
 - GY-521 module (MPU-6050)
 
 ## Tools & Stack
-Arduino · Python · Thonny · FFT · I2C
+Arduino · FFT · I2C
 
 ## Photos
 ![Real setup](images/real_setup.jpg)
