@@ -15,3 +15,7 @@ Arduino · FFT · I2C
 ## Photos
 ![Real setup](images/real_setup.jpg)
 ![Wiring diagram](images/wiring_diagram.png)
+
+### Video Demonstration
+
+[![Live Test Setup](https://img.youtube.com/vi/so3n2aMOJgr-p9Gb/0.jpg)](https://www.youtube.com/watch?v=so3n2aMOJgr-p9Gb)
